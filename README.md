@@ -1,6 +1,10 @@
 # Box Supervised Video Segmentation Proposal Network
 
 
+https://user-images.githubusercontent.com/14295248/169264792-d4fe09d3-6aed-4191-8423-fcce9edb7c4e.mp4
+
+
+
 ## Installation
 
 First install Detectron2 following the official guide: [INSTALL.md](https://github.com/facebookresearch/detectron2/blob/master/INSTALL.md).
