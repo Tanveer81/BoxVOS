@@ -1,8 +1,6 @@
 # Box Supervised Video Segmentation Proposal Network
 
-
-https://user-images.githubusercontent.com/14295248/169264792-d4fe09d3-6aed-4191-8423-fcce9edb7c4e.mp4
-
+https://user-images.githubusercontent.com/14295248/169266022-ffcb41d1-1c9d-4726-b2bd-625a64fc07d5.mp4
 
 
 ## Installation
