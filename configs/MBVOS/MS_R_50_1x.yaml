@@ -1,0 +1,7 @@
+_BASE_: "Base-MBVOS.yaml"
+MODEL:
+  WEIGHTS: "../weights/R-50.pkl"
+  RESNETS:
+    DEPTH: 50
+
+OUTPUT_DIR: "output/boxinst_MS_R_50_1x"

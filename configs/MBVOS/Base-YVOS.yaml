@@ -1,0 +1,16 @@
+MODEL:
+  BASIS_MODULE:
+    NUM_CLASSES: 1
+  FCOS:
+    NUM_CLASSES: 1
+  MEInst:
+    NUM_CLASSES: 1
+  RETINANET:
+    NUM_CLASSES: 1
+  ROI_HEADS:
+    NUM_CLASSES: 1
+  SOLOV2:
+    NUM_CLASSES: 1
+DATASETS:
+  TRAIN: ('yvos_train',)
+  TEST: ('yvos_valid',)
