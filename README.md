@@ -101,6 +101,6 @@ YVOS True
 
 # Pretrained Weights
 ```
-The weights for both the Davis and Youtube-VOS datasets can be found at this link.
-https://syncandshare.lrz.de/getlink/fiW3kjxv4XB6KvrXVVXCAMBn/
+The weights for both the Davis and Youtube-VOS datasets can be found at this  [link]([[https://github.com/facebookresearch/detectron2/blob/master/INSTALL.md](https://syncandshare.lrz.de/getlink/fiW3kjxv4XB6KvrXVVXCAMBn/)].
+
 ```
