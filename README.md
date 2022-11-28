@@ -98,3 +98,9 @@ motion None
 video-config-file ../configs/MBVOS/Base-YVOS_no_class.yaml 
 YVOS True
 ```
+
+# Pretrained Weights
+```
+The weights for both the Davis and Youtube-VOS datasets can be found at this link.
+https://syncandshare.lrz.de/getlink/fiW3kjxv4XB6KvrXVVXCAMBn/
+```
